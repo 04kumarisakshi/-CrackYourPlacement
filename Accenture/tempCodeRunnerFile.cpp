@@ -1,0 +1,1 @@
+v.insert(v.end(),s.begin(),s.end());
